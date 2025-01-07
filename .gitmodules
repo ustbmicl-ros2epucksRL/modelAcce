@@ -1,0 +1,3 @@
+[submodule "modelPapers"]
+	path = modelPapers
+	url = https://github.com/ustbmicl-ros2epucksRL/modelPapers.git

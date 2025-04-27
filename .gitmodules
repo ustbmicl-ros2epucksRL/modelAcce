@@ -1,3 +1,6 @@
 [submodule "modelPapers"]
 	path = modelPapers
 	url = https://github.com/ustbmicl-ros2epucksRL/modelPapers.git
+[submodule "splitAcce"]
+	path = splitAcce
+	url = https://github.com/ustbmicl-ros2epucksRL/splitAcce.git
